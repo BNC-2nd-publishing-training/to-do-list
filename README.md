@@ -70,10 +70,3 @@ yarn dev
 ├─ tsconfig.node.json<br/>
 ├─ vite.config.ts<br/>
 └─ yarn.lock<br/>
-
-<hr/>
-
-### 추신
-> porkieeeeeee@gmail.com
-
-하다가 안되거나 질문있으면 위 메일로 연락하거나 피그마에 코멘트 남겨주세요.
