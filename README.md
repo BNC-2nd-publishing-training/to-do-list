@@ -22,7 +22,7 @@
 #### 프로젝트 클론
 VSC를 열고 아래의 명령어를 터미널에 순서대로 입력합니다.
 ```
-git clone
+git clone https://github.com/BNC-2nd-publishing-training/to-do-list.git
 yarn install
 yarn dev
 ```
