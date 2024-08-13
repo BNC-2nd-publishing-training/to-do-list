@@ -3,6 +3,13 @@
 📚목표: 간단한 ToDoList를 만들며 React 기초 동작을 이해할 수 있습니다.
 🎨피그마: https://www.figma.com/design/LEMsHbc9taG3qbGLmzjxhd/%5BBNC-2%EA%B8%B0%5D-ToDoList?node-id=0-1&t=qP6d2WGplecdDUIa-0
 ```
+기간: 24.08.13 ~ 24.08.30<br/>
+(중간에 다 완성하면 미리 끝나는겁니다~)
+
+<br/>
+
+커밋 올리실 때 마다 코드 리뷰를 해드릴 예정입니다!<br/>
+(커밋을 자주 올리면 더 좋겠죠?😊)
 
 <hr/>
 
